@@ -1,3 +1,2 @@
 This is Checking of the WebHook Trigger from the github to the Jenkins url
-This is again checking of it 
 This is checking of the Github Actions os it
